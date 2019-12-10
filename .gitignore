@@ -1,8 +1,11 @@
 node_modules
 
-
-
 !.gitignore
+!10-cvicenie
+
+bom_remover
+*prednas
+*cvic
 
 # General Backup Files
 *.BAK
